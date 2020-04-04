@@ -1,12 +1,12 @@
 {
-	"folders": [
+    "folders": [
 		{
-			"path": "D:\\rova\\tw\\tw"
+			"path": "."
 		},
 		{
-			"name": "dialogflow-integrations",
-			"path": "D:\\rova\\dialogflow-integrations"
+			"name": "react-native-projects @ d83ca5e",
+			"uri": "gitlens://d83ca5e/d:/rova/react-native-projects?{\"path\":\"/d:/rova/react-native-projects\",\"ref\":\"d83ca5e73afcf31d5642beeb92f5ffb0243ac907\",\"repoPath\":\"d:/rova/react-native-projects\"}"
 		}
 	],
-	"settings": {}
+    "settings": {}
 }
